@@ -2,4 +2,8 @@ This is a sample project that implements a basic, bare-bones tower defense style
 
 All code and assets original.
 
-![Screenshot](img1.png)
+![Screenshot](readmeFiles/img1.jpg)
+
+![Screenshot](readmeFiles/img2.jpg)
+
+![Screenshot](readmeFiles/img3.jpg)
